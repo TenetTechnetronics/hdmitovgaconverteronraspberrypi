@@ -7,6 +7,21 @@ echo "Code Reviewer : Ram \n"
 echo " Revision Number :1 \n"
 echo "************************************************************\n"
 
+#Example Usage 
+
+#run the program and enter the hdmi_group and hdmi_mode value depends on your monitor
+#for more details about the configuration go through the following link
+#http://elinux.org/RPiconfig 
+
+
+#**********************************************************************************
+#copy and paste the code with a hdmitovga.sh file name
+#give the executable permisssion for the file by running the following command
+#sudo chmod 775 hdmitovga.sh
+#execute the file
+#sudo ./hdmitovga.sh
+#**********************************************************************************
+
 #path of the configuration file
 CONFIG_FILE="/boot/config.txt"
 
