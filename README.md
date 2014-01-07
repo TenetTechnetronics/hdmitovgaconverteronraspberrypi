@@ -1,4 +1,4 @@
-hdmitovgaconverteronraspberrypi
+HDMI to VGA converter on Raspberry Pi
 ===============================
 
 == Tenet Technetronics == "Simplifying Technology For life "
@@ -9,6 +9,6 @@ hdmitovgaconverteronraspberrypi
 
 This is an Automated script to configure HDMI to VGA conveter on Raspberry Pi.
 
-For Any further details or support email us at info@tenettech.com
-
 visit our website www.tenettech.com 
+
+For Any further details or support email us at info@tenettech.com
