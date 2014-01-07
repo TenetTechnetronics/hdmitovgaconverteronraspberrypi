@@ -21,7 +21,7 @@ echo "************************************************************\n"
 #execute the file
 #sudo ./hdmitovga.sh
 #**********************************************************************************
-
+ 
 #path of the configuration file
 CONFIG_FILE="/boot/config.txt"
 
